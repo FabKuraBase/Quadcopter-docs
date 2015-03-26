@@ -1,11 +1,13 @@
 # 必要な部品
 
-## Quadcopter
+## Motor
 
 MAYTECH社!<br>
 (kk215.png) MTO1804-2400-Q-MK CW
 
 ![](mto1804.png)
+
+## Controller
 
 Hobbyking<br>
 KK2.1.5 Multi-rotor LCD Flight Control Board With 6050MPU And Atmel 644PA
