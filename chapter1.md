@@ -17,6 +17,11 @@ KK2.1.5 Multi-rotor LCD Flight Control Board With 6050MPU And Atmel 644PA
 3DR-Pixhawk<br>
 ![](3dr-pixhawk.jpg)
 
+Pixhawk
+[回路図](https://pixhawk.org/_media/modules/px4fmuv1.7.pdf)
+
+
+
 # Body
 JR-62005 ロアフレー<br>
 JR-62004 アッパーフレーム<br>
