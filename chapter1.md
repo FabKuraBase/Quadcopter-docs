@@ -14,6 +14,9 @@ KK2.1.5 Multi-rotor LCD Flight Control Board With 6050MPU And Atmel 644PA
 
 ![](kk215.png)
 
+KK5.5<br>
+![](kk55.png)
+
 3DR-Pixhawk<br>
 ![](3dr-pixhawk.jpg)
 
