@@ -14,6 +14,14 @@ KK2.1.5 Multi-rotor LCD Flight Control Board With 6050MPU And Atmel 644PA
 
 ![](kk215.png)
 
+# Body
+JR-62005 ロアフレー<br>
+JR-62004 アッパーフレーム<br>
+JR-62008 リヤアーム<br>
+JR-62007 フロントアーム<br>
+JR-62006 フレームサポート<br>
+JR-87036 パワーコントロールボード<br>
+
 ## 会社のリンク
 [Shanghai Maytech Electronics Co., Ltd]( http://www.maytech.cn/maytech/eng/default.asp)<br>
 [Maytech Twitter](https://twitter.com/maytechrcmodel)<br>
